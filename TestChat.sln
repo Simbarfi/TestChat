@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestChat", "TestChat.csproj", "{4830FD89-3A54-4FA7-A89B-35327E166145}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Chat|Any CPU = Chat|Any CPU
+		Chat|ARM32 = Chat|ARM32
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM32 = Debug|ARM32
+		MultipleWindow|Any CPU = MultipleWindow|Any CPU
+		MultipleWindow|ARM32 = MultipleWindow|ARM32
+		Release|Any CPU = Release|Any CPU
+		Release|ARM32 = Release|ARM32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4830FD89-3A54-4FA7-A89B-35327E166145}.Chat|Any CPU.ActiveCfg = Release|Any CPU
+		{4830FD89-3A54-4FA7-A89B-35327E166145}.Chat|ARM32.ActiveCfg = Debug|ARM32
+		{4830FD89-3A54-4FA7-A89B-35327E166145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4830FD89-3A54-4FA7-A89B-35327E166145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4830FD89-3A54-4FA7-A89B-35327E166145}.Debug|ARM32.ActiveCfg = Debug|Any CPU
+		{4830FD89-3A54-4FA7-A89B-35327E166145}.Debug|ARM32.Build.0 = Debug|Any CPU
+		{4830FD89-3A54-4FA7-A89B-35327E166145}.MultipleWindow|Any CPU.ActiveCfg = Debug|Any CPU
+		{4830FD89-3A54-4FA7-A89B-35327E166145}.MultipleWindow|ARM32.ActiveCfg = Debug|ARM32
+		{4830FD89-3A54-4FA7-A89B-35327E166145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4830FD89-3A54-4FA7-A89B-35327E166145}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4830FD89-3A54-4FA7-A89B-35327E166145}.Release|ARM32.ActiveCfg = Release|ARM32
+		{4830FD89-3A54-4FA7-A89B-35327E166145}.Release|ARM32.Build.0 = Release|ARM32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34C11484-204D-4AF8-9A23-45CF6779BE26}
+	EndGlobalSection
+EndGlobal
